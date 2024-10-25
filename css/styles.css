@@ -143,7 +143,7 @@ p {
 /* A Happier Me */
 .banner-image {
     position: relative;
-    background-image: url('/images/ahmbanner.svg');
+    background-image: url('images/ahmbanner.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
